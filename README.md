@@ -1,6 +1,6 @@
 # NBDT_dynamic_clicks
-This is the reference repository for code used in our NBDT publication on the dynamic clicks task
-**(PUT LINK TO PAPER HERE)**. The main programing languages used are MATLAB (version 2017+) and Octave (version 4.2.2). Python 3 was also used to produce static clicks datasets, as explained below.
+This is the reference repository for code used in our [NBDT](https://nbdt.scholasticahq.com/about) publication on the dynamic clicks task
+**[PRE-PRINT](https://arxiv.org/abs/1902.01535)**. The main programing languages used are MATLAB (version 2017+) and Octave (version 4.2.2). Python 3 was also used to produce static clicks datasets, as explained below.
 
 # Figures 1-3
 The high-level algorithms for producing figures 1 through 3 were described 
